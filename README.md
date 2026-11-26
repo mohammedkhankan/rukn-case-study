@@ -5,7 +5,7 @@ A SaaS platform for building and running online stores.
 RUKN lets small and mid-sized businesses open an online store without hiring a developer. One platform serves every merchant, each with its own isolated data. The first market is Syria, with payments through Sham Cash and both delivery and pickup.
 
 > This repo is a public write-up. The product source is private.
-> Full case study: [mohammedkhankan.github.io/khankan-portfolio/en/projects/rukn](https://mohammedkhankan.github.io/khankan-portfolio/en/projects/rukn/)
+> Full case study: [mohammedkhankan.ofoqsy.com/en/projects/rukn](https://mohammedkhankan.ofoqsy.com/en/projects/rukn/)
 
 ![RUKN on desktop and mobile](docs/00-rukn-hero-desktop-mobile-1280.webp)
 
